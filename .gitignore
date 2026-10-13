@@ -1,0 +1,5 @@
+.env
+.venv/
+offer_account.session*
+__pycache__/
+*.pyc
